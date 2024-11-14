@@ -14,3 +14,5 @@ To build a Retrieval-Augmented Generation (RAG) system using the Gemini LLM, we 
 
 Solution Architecture:
 ![Screenshot from 2024-11-14 10-43-54](https://github.com/user-attachments/assets/28a3352e-6c4f-421b-a3cd-709bc8a53d9b)
+
+![Uploading Screenshot from 2024-11-14 11-12-50.png…]()
