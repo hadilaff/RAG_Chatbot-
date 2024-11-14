@@ -12,7 +12,9 @@ To build a Retrieval-Augmented Generation (RAG) system using the Gemini LLM, we 
 **Speech Capabilities**: transcribes the user's spoken question into text. The response can then be converted back to speech using a Text-to-Speech engine or text.
 
 
+
 Solution Architecture:
+
 ![Screenshot from 2024-11-14 10-43-54](https://github.com/user-attachments/assets/28a3352e-6c4f-421b-a3cd-709bc8a53d9b)
 
 ![Screenshot from 2024-11-14 11-12-50](https://github.com/user-attachments/assets/c0c1def1-37d9-462f-9435-45574e78dd07)
